@@ -3,5 +3,5 @@ BlockHero is the first java game I've made by using a swing timer to simulate th
 
 I used Java's awt package for event handling, image processing, and collision detection. Java swing was used to preload my file images as image icons and develop the GUI interface for the game. I also used swing's timer class to produce a timer instance that ran every 1 second. I created a TimerListener class that implemented an ActionListener to trigger the score and block movement as action events. Java's io package was used to automatically make a DAT file when the game is first run, and to read and write out to that file with a buffered reader and buffered writer to update the highscore and name of the player.
 
-UML Class Diagram
+
 ![Alt text](/assets/Screenshot.png?raw=true "BLOCK HERO")
