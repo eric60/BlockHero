@@ -1,7 +1,7 @@
 # BlockHero
 
 
-### Application Purpose
+### Description
 The objective of the BlockHero game is to survive as long as possible by dodging the falling blocks.  The score is based on the seconds alive and the game detects and saves the highest score automatically with a data(DAT) file. You can play the game by downloading the project files in a zip and running the GameFrame class on a Java IDE. My personal highscore is 122 seconds. You can move through the arrow keys.
 
 ### Resources Used
